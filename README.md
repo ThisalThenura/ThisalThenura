@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ThisalThenura
-- 👀 I’m interested in - IOT, Java, C/C++ Programming
-- 🌱 I’m currently learning - linux system administration
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in - IOT, linux system administration Java, C/C++ Programming
+- 🌱 I’m currently learning - Network Engineering and System Administration
 - 📫 How to reach me : email- wttrabel@gmail.com
 phone- +94760660739
 
